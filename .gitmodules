@@ -1,0 +1,3 @@
+[submodule "anymal_b_simple_description"]
+	path = anymal_b_simple_description
+	url = https://github.com/ANYbotics/anymal_b_simple_description.git
