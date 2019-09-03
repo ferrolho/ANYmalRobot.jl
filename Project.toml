@@ -1,0 +1,10 @@
+name = "ANYmalRobot"
+uuid = "7eb79b9a-e0ff-4b79-9f25-67b4260f8dff"
+authors = ["Henrique Ferrolho <henriqueferrolho@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Blink = "ad839575-38b3-5650-b840-f874b8c74a25"
+MeshCat = "283c5d60-a78f-5afe-a0af-af636b173e11"
+MeshCatMechanisms = "6ad125db-dd91-5488-b820-c1df6aab299d"
+RigidBodyDynamics = "366cf18f-59d5-5db9-a4de-86a9f6786172"
